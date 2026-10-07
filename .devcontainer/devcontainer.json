@@ -1,0 +1,7 @@
+{
+	"name": "Arch Linux Dotfiles",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"remoteUser": "dotfiles"
+}
